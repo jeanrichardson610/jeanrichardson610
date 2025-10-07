@@ -1,17 +1,3 @@
-ProfileMe.dev
-
-    Go home
-
-© 2025 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Support
-
-Make it easy for people using your products to support you or give donations.
-buymeacoffeeBuy Me a Coffee:
-kofiKo-fi:
-
 Hi 👋 My name is Jean Richardson
 =================================
 
