@@ -12,7 +12,7 @@ Make it easy for people using your products to support you or give donations.
 buymeacoffeeBuy Me a Coffee:
 kofiKo-fi:
 
-Hi 👋 My name is Jean Richardsono
+Hi 👋 My name is Jean Richardson
 =================================
 
 UI/UX Designer & Developer
