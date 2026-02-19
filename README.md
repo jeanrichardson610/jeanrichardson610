@@ -1,4 +1,4 @@
-Hi 👋 My name is Jean Richardsono
+Hi 👋 My name is Jean Richardson
 =================================
 
 UI/UX Designer & Front-end Developer
