@@ -9,7 +9,7 @@ I'm UI/UX Designer and Front-end Developer. Not only can I now design your next 
 *   🌍  I'm based in Phoenix, AZ
 *   🖥️  See my portfolio at [JR Studio](http://jr-studio-one.vercel.app/)
 *   ✉️  You can contact me at [jean.richardson610@gmail.com](mailto:jean.richardson610@gmail.com)
-*   🚀  I'm currently working on [React Weather Dashboard](http://react-weather-dashboard-wlf9.vercel.app/)
+*   🚀  I'm currently working on [Spatia](https://puter.com/app/spatia)
 *   🧠  I'm currently learning React and more React
 *   👥  I'm looking to collaborate on Frontend projects, interfaces, sites, and apps
 *   💬  I'm learning French
