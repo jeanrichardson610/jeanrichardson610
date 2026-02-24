@@ -1,7 +1,7 @@
 Hi 👋 My name is Jean Richardson
 =================================
 
-UI/UX Designer & Front-end Developer
+Frontend Developer & UI/UX Designer
 ------------------------------------
 
 I'm UI/UX Designer and Front-end Developer. Not only can I now design your next project whether it be web and/or mobile application...I can build it for you.
