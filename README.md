@@ -7,9 +7,9 @@ Frontend Developer & UI/UX Designer
 I'm UI/UX Designer and Front-end Developer. Not only can I now design your next project whether it be web and/or mobile application...I can build it for you.
 
 *   🌍  I'm based in Phoenix, AZ
-*   🖥️  See my portfolio at [JR Studio](http://jr-studio-one.vercel.app/)
+*   🖥️  See my portfolio at [JR Studio](https://www.jr-studio.space/)
 *   ✉️  You can contact me at [jean.richardson610@gmail.com](mailto:jean.richardson610@gmail.com)
-*   🚀  I'm currently working on [Spatia](https://puter.com/app/spatia)
+*   🚀  I'm currently working on [JR Canvas](https://jr-canvas.vercel.app/)
 *   🧠  I'm currently learning React and more React
 *   👥  I'm looking to collaborate on Frontend projects, interfaces, sites, and apps
 *   💬  I'm learning French
