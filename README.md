@@ -5,7 +5,7 @@ Frontend Developer | UI/UX Designer | React
 I build modern, interactive web applications focused on performance, clean UI, and strong user experience.
 
 🌐 Portfolio: [JR Studio](https://www.jr-studio.space/)  
-🚀 Current Project: [JR Canvas](https://jr-canvas.vercel.app/)  
+🚀 Current Project: [zero_trace](https://zero-trace-six.vercel.app/)
 📫 Contact: jean.richardson610@gmail.com  
 
 ## Tech Stack
