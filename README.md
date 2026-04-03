@@ -12,7 +12,7 @@ I build modern, interactive web applications focused on performance, clean UI, a
 
 JavaScript • TypeScript • React • Vite  
 Tailwind CSS • Shadcn UI • GSAP • Framer Motion • Lucide  
-Puter.js 
+Puter.js • Elysia
 
 ## Featured Projects
 
