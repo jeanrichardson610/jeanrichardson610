@@ -10,9 +10,9 @@ I build modern, interactive web applications focused on performance, clean UI, a
 
 ## Tech Stack
 
-Frontend: React • Next.js • Puter.js • TypeScript • JavaScript <br>
-Styling: Tailwind CSS • Shadcn UI • GSAP • Framer Motion   <br>
-Backend/Data: REST APIs • Serverless Architecture • ElysiaJS 
+<b>Frontend:</b> React • Next.js • Puter.js • TypeScript • JavaScript <br>
+<b>Styling:</b> Tailwind CSS • Shadcn UI • GSAP • Framer Motion   <br>
+<b>Backend/Data:</b> REST APIs • Serverless Architecture • ElysiaJS 
 
 ## Featured Projects
 
