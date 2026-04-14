@@ -5,7 +5,7 @@ Frontend Developer | UI/UX Designer | React
 I build modern, interactive web applications focused on performance, clean UI, and strong user experience.
 
 🌐 Portfolio: [JR Studio](https://www.jr-studio.space/)  
-🚀 Current Project: [Keep It Katelin](https://wwww.keepitkatelin.com) <br>
+🚀 Current Project: [Keep It Katelin](https://www.keepitkatelin.com) <br>
 📫 Contact: jean.richardson610@gmail.com  
 
 ## Tech Stack
