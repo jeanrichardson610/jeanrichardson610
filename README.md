@@ -5,7 +5,7 @@ Frontend Developer | UI/UX Designer | React
 I build modern, interactive web applications focused on performance, clean UI, and strong user experience.
 
 🌐 Portfolio: [JR Studio](https://www.jr-studio.space/)  
-🚀 Current Project: [zero_trace](https://zero-trace-six.vercel.app/) <br>
+🚀 Current Project: [Keep It Katelin](https://wwww.keepitkatelin.com) <br>
 📫 Contact: jean.richardson610@gmail.com  
 
 ## Tech Stack
@@ -17,6 +17,6 @@ Puter.js • Elysia
 ## Featured Projects
 
 - [JR Canvas](https://jr-canvas.vercel.app/) 
+- [Zero Trace](https://zero-trace-six.vercel.app/)
+- [Spatia](https://puter.com/app/spatia)
 - [React Weather Dashboard](https://react-weather-dashboard-wlf9.vercel.app/)
-- [Reel-lax](https://reel-lax.onrender.com/)
-- [Fitlytics](https://fitness-tracker-lac-kappa.vercel.app/)
