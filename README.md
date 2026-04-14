@@ -1,6 +1,6 @@
 # Jean Richardson
 
-Frontend Developer | UI/UX Designer | React
+Frontend Developer | UI/UX Designer 
 
 I build modern, interactive web applications focused on performance, clean UI, and strong user experience.
 
