@@ -5,7 +5,7 @@ Frontend Developer | UI/UX Designer
 I build modern, interactive web applications focused on performance, clean UI, and strong user experience.
 
 🌐 Portfolio: [JR Studio](https://www.jr-studio.space/)  
-🚀 Current Project: [Keep It Katelin](https://www.keepitkatelin.com) <br>
+🚀 Current Project: [wavelength](https://wavelength-alpha-teal.vercel.app/) <br>
 📫 Contact: jean.richardson610@gmail.com  
 
 ## Tech Stack
