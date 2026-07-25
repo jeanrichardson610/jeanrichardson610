@@ -19,4 +19,4 @@ I build modern, interactive web applications focused on performance, clean UI, a
 - [JR Canvas](https://jr-canvas.vercel.app/) 
 - [Zero Trace](https://zero-trace-six.vercel.app/)
 - [Spatia](https://puter.com/app/spatia)
-- [SignalStack](https://signal-stack-wheat.vercel.app/)
+- [Wavelength](https://wavelength-alpha-teal.vercel.app/)
