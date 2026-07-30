@@ -18,5 +18,5 @@ I build modern, interactive web applications focused on performance, clean UI, a
 
 - [Kanban-flow](https://github.com/jeanrichardson610/kanban-flow)
 - [Scrubline](https://github.com/jeanrichardson610/Scrubline)
-- [Wavelength](https://wavelength-alpha-teal.vercel.app/)
+- [Wavelength](https://github.com/jeanrichardson610/wavelength)
 - [Vellum](https://github.com/jeanrichardson610/vellum)
