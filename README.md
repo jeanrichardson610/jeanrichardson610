@@ -5,7 +5,7 @@ Frontend Developer | UI/UX Designer
 I build modern, interactive web applications focused on performance, clean UI, and strong user experience.
 
 🌐 Portfolio: [JR Studio](https://www.jr-studio.space/)  
-🚀 Current Project: [wavelength](https://wavelength-alpha-teal.vercel.app/) <br>
+🚀 Current Project: [Vellum](https://github.com/jeanrichardson610/vellum) <br>
 📫 Contact: jean.richardson610@gmail.com  
 
 ## Tech Stack
@@ -16,7 +16,7 @@ I build modern, interactive web applications focused on performance, clean UI, a
 
 ## Featured Projects
 
-- [JR Canvas](https://jr-canvas.vercel.app/) 
-- [Zero Trace](https://zero-trace-six.vercel.app/)
-- [Spatia](https://puter.com/app/spatia)
+- [Kanban-flow](https://github.com/jeanrichardson610/kanban-flow)
+- [Scrubline](https://github.com/jeanrichardson610/Scrubline)
 - [Wavelength](https://wavelength-alpha-teal.vercel.app/)
+- [Vellum](https://github.com/jeanrichardson610/vellum)
